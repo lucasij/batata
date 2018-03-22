@@ -1,0 +1,7 @@
+if(wesley=="acordado")
+{
+Impossivel="verdadeiro";
+}
+else
+{
+Impossivel="falso";
